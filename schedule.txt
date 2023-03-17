@@ -1,0 +1,20 @@
+16th March:(Day 1);
+-----------------
+*Introduction of python and all the advantages of python
+
+
+Exercise:
+---------
+*Wrote a python function class and evaluated how to write it.
+
+
+17th March(Day 2):
+---------------
+*variables
+*Assignment and operational arithmetic.
+
+Exercise:
+--------
+*Complete assigment on assigment operators(div, exponential and modules)
+*Complete assigment on arithmetic operators(div, exponential and modules)
+*Write a program in which take a,b as two variables a=10, b=5 and multiply both the variables and exponential the output of (a*b) with 3 and print the modules of that output with 5.
